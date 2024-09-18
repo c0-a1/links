@@ -1,6 +1,5 @@
 chrome://inducebrowsercrashforrealz
 chrome://restart
-chrome://crash
 chrome://kill
 chrome://hang
 chrome://quit
